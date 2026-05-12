@@ -123,6 +123,11 @@ streamlit run app/ui_dashboard.py
 * Easy to use interface
 * Real-time response system
 * Modular and scalable architecture
+
+  ## Dashboard Overview
+  <img width="1330" height="489" alt="Image" src="https://github.com/user-attachments/assets/653fae68-3f91-417f-9efd-472cb9c9aa76" />
+
+<img width="761" height="555" alt="Image" src="https://github.com/user-attachments/assets/b147adaa-e4f1-4b15-be96-325e90da61bd" />
   
 ## Author
 ### Palak Rathore
